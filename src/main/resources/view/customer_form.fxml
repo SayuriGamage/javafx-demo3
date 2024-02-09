@@ -5,14 +5,13 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.javafxdemo3.controller.CustomerFormController">
+<AnchorPane fx:id="customerNode" prefHeight="243.0" prefWidth="399.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.javafxdemo3.controller.CustomerFormController">
    <children>
       <Label layoutX="58.0" layoutY="36.0" prefHeight="16.0" prefWidth="222.0" text="customer form">
          <font>
             <Font size="36.0" />
          </font>
       </Label>
-      <Button layoutX="186.0" layoutY="124.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="94.0" text="Button" />
+      <Button layoutX="186.0" layoutY="124.0" mnemonicParsing="false" onAction="#backOnAction" prefHeight="51.0" prefWidth="94.0" text="back" />
    </children>
 </AnchorPane>

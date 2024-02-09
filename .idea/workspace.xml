@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09f3b61-1c37-41ad-8d68-8e772506ebfa" name="Changes" comment="create">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/DB/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/click.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/1662472700066.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/pngtree-the-icon-is-of-an-employee-holding-a-document-for-his-png-image_12271156.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/login_form.fxml" afterDir="false" />
+    <list default="true" id="f09f3b61-1c37-41ad-8d68-8e772506ebfa" name="Changes" comment="create a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/CustomerFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/CustomerFormController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/LoginFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/LoginFormController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/SmapleFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/SmapleFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/customer_form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/customer_form.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/view/sample_form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/sample_form.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +101,7 @@
       <workItem from="1707472865053" duration="5356000" />
       <workItem from="1707488930214" duration="1191000" />
       <workItem from="1707493646898" duration="199000" />
-      <workItem from="1707496692084" duration="1813000" />
+      <workItem from="1707496692084" duration="5528000" />
     </task>
     <task id="LOCAL-00001" summary="creation fxml">
       <option name="closed" value="true" />
@@ -124,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707472981501</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create a">
+      <option name="closed" value="true" />
+      <created>1707498726110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707498726110</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +136,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creation fxml" />
     <MESSAGE value="creation" />
-    <option name="LAST_COMMIT_MESSAGE" value="creation" />
+    <MESSAGE value="create a" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
