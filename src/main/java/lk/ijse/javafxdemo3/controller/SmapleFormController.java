@@ -43,8 +43,8 @@ public class SmapleFormController {
 
         AnchorPane customerForm =loader.load();
 
-        itemPane.getChildren().clear();
-        itemPane.getChildren().add(customerForm);
+        customerPane.getChildren().clear();
+        customerPane.getChildren().add(customerForm);
 
     }
 }

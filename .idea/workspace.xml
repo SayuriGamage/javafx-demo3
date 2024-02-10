@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09f3b61-1c37-41ad-8d68-8e772506ebfa" name="Changes" comment="c">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/ItemFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/item_form.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/view/sample_form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/sample_form.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="f09f3b61-1c37-41ad-8d68-8e772506ebfa" name="Changes" comment="d" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +96,7 @@
       <workItem from="1707493646898" duration="199000" />
       <workItem from="1707496692084" duration="9331000" />
       <workItem from="1707506159929" duration="485000" />
-      <workItem from="1707532909099" duration="2768000" />
+      <workItem from="1707532909099" duration="3180000" />
     </task>
     <task id="LOCAL-00001" summary="creation fxml">
       <option name="closed" value="true" />
@@ -143,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707532931845</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="d">
+      <option name="closed" value="true" />
+      <created>1707536596576</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707536596576</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +158,8 @@
     <MESSAGE value="create a" />
     <MESSAGE value="create b" />
     <MESSAGE value="c" />
-    <option name="LAST_COMMIT_MESSAGE" value="c" />
+    <MESSAGE value="d" />
+    <option name="LAST_COMMIT_MESSAGE" value="d" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
