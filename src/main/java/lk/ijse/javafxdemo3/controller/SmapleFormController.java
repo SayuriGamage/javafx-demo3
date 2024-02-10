@@ -13,7 +13,7 @@ import java.io.IOException;
 public class SmapleFormController {
 
     public AnchorPane rootNode;
-    public AnchorPane customerPane;
+    public AnchorPane Pane;
     public AnchorPane itemPane;
 
 
@@ -33,8 +33,8 @@ public class SmapleFormController {
 
         AnchorPane customerForm =loader.load();
 
-        customerPane.getChildren().clear();
-        customerPane.getChildren().add(customerForm);
+        Pane.getChildren().clear();
+        Pane.getChildren().add(customerForm);
     }
 
 
@@ -43,8 +43,8 @@ public class SmapleFormController {
 
         AnchorPane customerForm =loader.load();
 
-        customerPane.getChildren().clear();
-        customerPane.getChildren().add(customerForm);
+        Pane.getChildren().clear();
+        Pane.getChildren().add(customerForm);
 
     }
 
@@ -53,7 +53,7 @@ public class SmapleFormController {
 
         AnchorPane customerForm =loader.load();
 
-        customerPane.getChildren().clear();
-        customerPane.getChildren().add(customerForm);
+        Pane.getChildren().clear();
+        Pane.getChildren().add(customerForm);
     }
 }

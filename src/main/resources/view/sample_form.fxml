@@ -22,7 +22,7 @@
 
       </Button>
       <Button defaultButton="true" layoutX="28.0" layoutY="411.0" mnemonicParsing="false" onAction="#supplierOnAction" prefHeight="30.0" prefWidth="79.0" text="supplier" />
-      <AnchorPane fx:id="customerPane" layoutX="151.0" layoutY="151.0" prefHeight="243.0" prefWidth="399.0" />
+      <AnchorPane fx:id="Pane" layoutX="151.0" layoutY="151.0" prefHeight="243.0" prefWidth="399.0" />
       <AnchorPane layoutX="175.0" layoutY="331.0" prefHeight="243.0" prefWidth="399.0" />
       <AnchorPane layoutX="214.0" layoutY="452.0" prefHeight="243.0" prefWidth="399.0" />
       <Label layoutX="47.0" layoutY="199.0" text="Sayuri" />
