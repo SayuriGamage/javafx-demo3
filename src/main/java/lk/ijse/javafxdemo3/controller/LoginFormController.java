@@ -24,7 +24,7 @@ public class LoginFormController {
 
         if(username.equals(DB.USERNAME)&&password.equals(DB.PASSWORD)){
           //  new Alert(Alert.AlertType.CONFIRMATION,"login sucessfully").show();
-          Parent  rootNode = FXMLLoader.load(this.getClass().getResource("/view/sample_form.fxml"));
+          Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/sample_form.fxml"));
 
             Scene scene  = new Scene(rootNode);
             Stage stages =new Stage();

@@ -14,6 +14,8 @@ public class SmapleFormController {
 
     public AnchorPane rootNode;
     public AnchorPane customerPane;
+    public AnchorPane itemPane;
+
 
     public void ClickOnAction(ActionEvent actionEvent) throws IOException {
        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/login_form.fxml"));
@@ -34,4 +36,6 @@ public class SmapleFormController {
         customerPane.getChildren().clear();
         customerPane.getChildren().add(customerForm);
     }
+
+
 }

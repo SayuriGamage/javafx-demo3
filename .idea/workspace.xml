@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09f3b61-1c37-41ad-8d68-8e772506ebfa" name="Changes" comment="create a">
+    <list default="true" id="f09f3b61-1c37-41ad-8d68-8e772506ebfa" name="Changes" comment="create b">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/CustomerFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/CustomerFormController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/LoginFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/LoginFormController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/SmapleFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/javafxdemo3/controller/SmapleFormController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/view/customer_form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/customer_form.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/view/sample_form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/sample_form.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +99,8 @@
       <workItem from="1707472865053" duration="5356000" />
       <workItem from="1707488930214" duration="1191000" />
       <workItem from="1707493646898" duration="199000" />
-      <workItem from="1707496692084" duration="5528000" />
+      <workItem from="1707496692084" duration="9331000" />
+      <workItem from="1707506159929" duration="485000" />
     </task>
     <task id="LOCAL-00001" summary="creation fxml">
       <option name="closed" value="true" />
@@ -127,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707498726110</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create b">
+      <option name="closed" value="true" />
+      <created>1707502284933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707502284933</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +144,8 @@
     <MESSAGE value="creation fxml" />
     <MESSAGE value="creation" />
     <MESSAGE value="create a" />
-    <option name="LAST_COMMIT_MESSAGE" value="create a" />
+    <MESSAGE value="create b" />
+    <option name="LAST_COMMIT_MESSAGE" value="create b" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
