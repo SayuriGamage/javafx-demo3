@@ -27,8 +27,8 @@ public class LoginFormController {
           Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/sample_form.fxml"));
 
             Scene scene  = new Scene(rootNode);
-            Stage stages =new Stage();
-           //  stages=(Stage)this.rootNode.getScene().getWindow();
+           // Stage stages =new Stage();
+           Stage  stages=(Stage)this.rootNode.getScene().getWindow();
 
             stages.setScene(scene);
             stages.setTitle("login");
