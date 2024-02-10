@@ -16,8 +16,8 @@
       <Button layoutX="26.0" layoutY="408.0" mnemonicParsing="false" onAction="#ClickOnAction" prefHeight="30.0" prefWidth="84.0" text="back" />
       <BorderPane layoutX="34.0" layoutY="159.0" prefHeight="40.0" prefWidth="68.0" />
       <Button layoutX="28.0" layoutY="220.0" mnemonicParsing="false" onAction="#customerOnAction" prefHeight="30.0" prefWidth="79.0" text="customer" />
-      <Button layoutX="28.0" layoutY="273.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="79.0" text="item" >
-         <onAction>#itemOnAction</onAction>
+      <Button layoutX="28.0" layoutY="273.0" mnemonicParsing="false" onAction="#itemOnAction" prefHeight="30.0" prefWidth="79.0" text="item">
+
       </Button>
       <Button layoutX="28.0" layoutY="335.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="79.0" text="supplier" />
       <AnchorPane fx:id="customerPane" layoutX="157.0" layoutY="87.0" prefHeight="243.0" prefWidth="399.0" />

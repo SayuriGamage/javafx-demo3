@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane fx:id="itemNode" prefHeight="200.0" prefWidth="293.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.javafxdemo3.controller.ItemFormController">
+   <children>
+      <Button layoutX="85.0" layoutY="74.0" mnemonicParsing="false" text="Click" />
+      <Label layoutX="58.0" layoutY="26.0" prefHeight="30.0" prefWidth="97.0" text="items">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
