@@ -47,4 +47,13 @@ public class SmapleFormController {
         customerPane.getChildren().add(customerForm);
 
     }
+
+    public void supplierOnAction(ActionEvent actionEvent) throws IOException {
+        FXMLLoader loader= new FXMLLoader(getClass().getResource("/view/supplier_form.fxml"));
+
+        AnchorPane customerForm =loader.load();
+
+        customerPane.getChildren().clear();
+        customerPane.getChildren().add(customerForm);
+    }
 }

@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane fx:id="rootNode" prefHeight="663.0" prefWidth="689.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.javafxdemo3.controller.SmapleFormController">
+<AnchorPane fx:id="rootNode" prefHeight="759.0" prefWidth="689.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.javafxdemo3.controller.SmapleFormController">
    <children>
       <Label layoutX="132.0" layoutY="48.0" prefHeight="39.0" prefWidth="219.0" text="Main Window">
          <font>
@@ -19,8 +19,9 @@
       <Button layoutX="28.0" layoutY="273.0" mnemonicParsing="false" onAction="#itemOnAction" prefHeight="30.0" prefWidth="79.0" text="item">
 
       </Button>
-      <Button layoutX="28.0" layoutY="335.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="79.0" text="supplier" />
-      <AnchorPane fx:id="customerPane" layoutX="157.0" layoutY="87.0" prefHeight="243.0" prefWidth="399.0" />
-      <AnchorPane layoutX="175.0" layoutY="331.0" prefHeight="200.0" prefWidth="293.0" />
+      <Button layoutX="28.0" layoutY="335.0" mnemonicParsing="false" onAction="#supplierOnAction" prefHeight="30.0" prefWidth="79.0" text="supplier" />
+      <AnchorPane fx:id="customerPane" layoutX="151.0" layoutY="151.0" prefHeight="243.0" prefWidth="399.0" />
+      <AnchorPane layoutX="175.0" layoutY="331.0" prefHeight="243.0" prefWidth="399.0" />
+      <AnchorPane layoutX="214.0" layoutY="452.0" prefHeight="243.0" prefWidth="399.0" />
    </children>
 </AnchorPane>

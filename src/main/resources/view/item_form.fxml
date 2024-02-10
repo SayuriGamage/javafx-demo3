@@ -5,10 +5,10 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane fx:id="itemNode" prefHeight="200.0" prefWidth="293.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.javafxdemo3.controller.ItemFormController">
+<AnchorPane fx:id="itemNode" prefHeight="243.0" prefWidth="399.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.javafxdemo3.controller.ItemFormController">
    <children>
-      <Button layoutX="85.0" layoutY="74.0" mnemonicParsing="false" onAction="#itemClickBack" text="Click" />
-      <Label layoutX="58.0" layoutY="26.0" prefHeight="30.0" prefWidth="97.0" text="items">
+      <Button layoutX="276.0" layoutY="158.0" mnemonicParsing="false" onAction="#itemClickBack" text="back" />
+      <Label layoutX="58.0" layoutY="26.0" prefHeight="30.0" prefWidth="162.0" text="items form">
          <font>
             <Font size="24.0" />
          </font>
